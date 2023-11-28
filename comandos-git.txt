@@ -5,7 +5,7 @@
     git config iiglobal user.email: criar email do usário global
 4 - git add --all ou -A: adicionar arquivos ao commit
 5 - git commit -m "a mensagem que identifica o commit"
-6 - git branch: saber quantas branchs tem 
+6 - git branch: saber quantas branchs tem
 7 - git branch <nome da branch> : criar uma nova branch
 8 - git branch -m <branch atual> <novo nome>: renomear branch
 9 - git checkout <nome da branch> : mudar de branch
