@@ -12,4 +12,5 @@
 9 - git checkout <nome da branch> : mudar de branch
 10 - git merge <nome da branh> : juntar as alteraçoes feitas numa branch 
 11 - git config --global --replace-all user.name: alterar nome de usuário global
-12 - Linha teste para testar o git pull
+12 - Linha teste para testar o git pull.
+13 - git brnch -d ou -D <nome da branch> : deletar uma branch
