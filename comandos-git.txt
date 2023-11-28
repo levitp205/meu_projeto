@@ -1,3 +1,4 @@
+
 1 - git init: para iniciar repositório local
 2 - git config user.name: criar usuário local
     git config --global user.name: criar usuário global
