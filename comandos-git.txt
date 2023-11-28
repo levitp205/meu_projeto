@@ -14,3 +14,4 @@
 11 - git config --global --replace-all user.name: alterar nome de usuário global
 12 - Linha teste para testar o git pull.
 13 - git brnch -d ou -D <nome da branch> : deletar uma branch
+14 - git pull : Atualiza a pasta que ja está no repositório remote.
