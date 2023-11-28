@@ -10,3 +10,4 @@
 8 - git branch -m <branch atual> <novo nome>: renomear branch
 9 - git checkout <nome da branch> : mudar de branch
 10 - git merge <nome da branh> : juntar as alteraçoes feitas numa branch 
+11 - git config --global --replace-all user.name: alterar nome de usuário global
